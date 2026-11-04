@@ -1,3 +1,7 @@
+# 0.43.4
+
+* No changelog entries were found since the previous release (dry-run placeholder).
+
 # 0.43.3
 
 * No changelog entries were found since the previous release (dry-run placeholder).
